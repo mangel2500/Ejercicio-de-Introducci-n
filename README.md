@@ -1,4 +1,4 @@
-## EJERCICIO DE INTRODUCCIÓN      ![logo](http://www.nacion.com/static/LNCNacion/images/rss_black.svg)
+## EJERCICIO DE INTRODUCCIÓN ![logo](http://www.nacion.com/static/LNCNacion/images/rss_black.svg)
 
 En esta *clase* hemos creado a mano una serie de archivos y posteriormente los hemos subido a **Github**, por ultimo hemos editado el README.
 
