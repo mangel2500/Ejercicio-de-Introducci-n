@@ -1,4 +1,4 @@
-## EJERCICIO DE INTRODUCCIÓN 
+## EJERCICIO DE INTRODUCCIÓN ![logo](http://www.nacion.com/static/LNCNacion/images/rss_black.svg)
 
 En esta *clase* hemos creado a mano una serie de archivos y posteriormente los hemos subido a **Github**, por ultimo hemos editado el README.
 
@@ -7,4 +7,3 @@ En esta *clase* hemos creado a mano una serie de archivos y posteriormente los h
 3. [XML](https://github.com/mangel2500/Ejercicio-de-Introducci-n/blob/master/ejemploxml.xml)
 4. [HTML](https://github.com/mangel2500/Ejercicio-de-Introducci-n/blob/master/ejemplohtml.html)
 
-![logo](http://www.nacion.com/static/LNCNacion/images/rss_black.svg)
